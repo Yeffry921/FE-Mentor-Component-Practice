@@ -72,6 +72,12 @@
   color: #fff;
   margin: 1rem 0;
 }
+
+.btn-signup:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px;;
+}
+
 .info-section {
   flex: 1;
   background-color: hsl(179,47%,51%);
